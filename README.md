@@ -2,6 +2,7 @@
 - 👀 I’m interested in Machine Learning, NLP
 - 🌱 I’m currently learning Backend Development, MLOps
 - 📫 Reach me via email: johannes.birk11@web.de
+- 📫 Alternatively, reach me via [linkedin](https://www.linkedin.com/in/johannes-birk/)
 
 <!---
 Johannes1803/Johannes1803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
