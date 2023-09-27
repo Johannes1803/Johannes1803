@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Johannes1803, Data Scientist
 - 👀 I’m interested in Machine Learning, NLP
 - 🌱 I’m currently learning Backend Development, DevOps
-- 📫 Reach me via email: johannes.birk11@web.de
 - 📫 Alternatively, reach me via [linkedin](https://www.linkedin.com/in/johannes-birk/)
 
 <!---
