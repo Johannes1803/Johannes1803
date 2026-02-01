@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Johannes1803, Data Scientist
-- 👀 I’m interested in Machine Learning, NLP
-- 🌱 I’m currently learning Backend Development, DevOps
+- 👋 Hi, I’m @Johannes1803, Generative AI Engineer
+- 👀 I’m interested in GenAI, NLP.
 - 📫 Alternatively, reach me via [linkedin](https://www.linkedin.com/in/johannes-birk/)
 
 <!---
